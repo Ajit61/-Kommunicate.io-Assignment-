@@ -1,0 +1,11 @@
+Proximity Identification using IOT
+
+So nowadays most of the COMMON APLLIANCES we use are smart devices.
+These devices communicate with other devices using bluetooth mostly.
+the drawback of this is bluetooth consumes more battery and is not required
+ for devices where very less data is transmitted.so we proposed a approach with ble 
+ where the location of the iot device is calculated by the strength of the ble wave it is emitting.
+ that value is called rssi value and it stands for received strength indicator.with help of this we can 
+ know which iot device is closest to us.this has many applications,lets imagine a scenario 
+ where we are going back to your house after a long day.we can use a ble trigger 
+ which automatically switches on the lights,open garage doors.the trigger being a certain strength of ble wave is emitted from our car.
